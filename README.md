@@ -37,15 +37,15 @@ Concluí satisfactoriamente el curso de Desarrollo de Paginas WEB. Adquirí cono
 
 ### 📊 Certificación de Desarrollador en Desarrollador Front-end
 **Fecha:** Mayo 2023  
-**Plataforma:** capacitate para elempleo 
+**Plataforma:** capacitate para el empleo 
 
 ### 📊 Certificación de Desarrollador Back-end
 **Fecha:** Mayo 2023  
-**Plataforma:** capacitate para elempleo 
+**Plataforma:** capacitate para el empleo 
 
 ### 📊 Certificación de Administrador de bases de datos
 **Fecha:** Mayo 2023  
-**Plataforma:** capacitate para elempleo 
+**Plataforma:** capacitate para el empleo 
 
 ### 🎓 Lógica de programación con JavaScript
 **Fecha:** Febrero 2024 - Julio 2024  
