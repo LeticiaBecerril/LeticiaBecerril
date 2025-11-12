@@ -1,16 +1,128 @@
-## Hi there 👋
+<h1 align="center"> ¡Hola! Soy Leticia Becerril <br> (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠</h1>
 
-<!--
-**LeticiaBecerril/LeticiaBecerril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀Tecnica en Informatica y futura Ing. en computacion <br> Desarrolladora Full Stack apasionada por la programación </h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LeticiaBecerril&label=Profile%20views&color=blueviolet&style=flat" alt="LeticiaBecerril" />
+  <a href="https://github.com/LeticiaBecerril?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/LeticiaBecerril?color=green&logo=github">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Sobre Mí
+
+Soy tecnica en Informatica apunto de terminar la carrera en Ing. en Computación, me estoy especializando en desarrollo de Software, ya que me gusta programar.
+
+**✨ Lo que me define:**
+- 💻 **Desarrollador Full Stack** con enfoque en front-end y back-end (basico).
+- 🎨 **Creadora de Sistemas**
+- 🚀 **Me considero una persona autodidacta** 
+
+## 📚 Certificaciones y Educación
+
+### 🎓 Tecnica en Informatica (Titulada)
+**Fecha:** Agosto 2014 - Julio 2017  
+**Institución:** CONALEP Lerma 
+Concluí la carrera tecnica, donde adquirí conocimientos en Programación, Bases de datos, redes de computadoras, manejo de paqueteria de Office. En la cual empezo mi pasion por la programacion en esta institucion.
+
+### 🎓 Ingeniería en Computación (Estudiando)
+**Fecha:** Agosto 2018 - Diciembre 2025
+**Institución:**   Universidad Autónoma del Estado de México
+Concluí la Licenciatura de Ingeniería en Computación, donde adquirí conocimientos en Programación, Bases de datos, redes de computadoras, Analisis de Datos, Documentacion de Sistemas, Diagramas UML.
+
+### 🎓 Tecnolochicas PRO
+**Fecha:** Agosto 2023 - Septiembre 2023  
+**Institución:** Tecnolochicas  
+Concluí satisfactoriamente el curso de Desarrollo de Paginas WEB. Adquirí conocimientos prácticos en HTML,CSS,JS y empleabilidad.
+
+### 📊 Certificación de Desarrollador en Desarrollador Front-end
+**Fecha:** Mayo 2023  
+**Plataforma:** capacitate para elempleo 
+
+### 📊 Certificación de Desarrollador Back-end
+**Fecha:** Mayo 2023  
+**Plataforma:** capacitate para elempleo 
+
+### 📊 Certificación de Administrador de bases de datos
+**Fecha:** Mayo 2023  
+**Plataforma:** capacitate para elempleo 
+
+### 🎓 Lógica de programación con JavaScript
+**Fecha:** Febrero 2024 - Julio 2024  
+**Institución:** Alura Latam  
+Obtuve concocimiento como una induccion al mundo de JavaScript.
+
+
+
+## 🛠️ Proyectos Destacados
+
+### 🎨 [Portafolio Personal](https://kevingil12c.github.io/portafolio-kevscl/)
+Mi portafolio personal donde muestro mis proyectos y habilidades como desarrollador.
+
+[![Portafolio](https://github.com/KevinGil12C/KevinGil12C/blob/main/portafolio_cap.png)](https://kevingil12c.github.io/portafolio-kevscl/)
+
+
+## 💼 Habilidades Técnicas
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevingil12c&show_icons=true&locale=en&layout=compact&theme=radical" alt="kevingil12c" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevingil12c&show_icons=true&locale=en&theme=radical" alt="kevingil12c" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevingil12c&theme=radical" alt="kevingil12c" />
+</p>
+
+## 🏆 Logros
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kevingil12c&theme=radical&no-frame=true&no-bg=true" alt="kevingil12c" />
+  </a>
+</p>
+
+## 📫 Conéctate Conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevin-jesus-coyote-gil-030287288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kebo.jcg77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://kevingil12c.github.io/portafolio-kevscl/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio"/>
+  </a>
+</p>
+
+## 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
