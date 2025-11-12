@@ -1,6 +1,6 @@
 <h1 align="center"> ¡Hola! Soy Leticia Becerril <br> (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠</h1>
 
-<h3 align="center">🚀Tecnica en Informatica y futura Ing. en computacion <br> Desarrolladora Full Stack apasionada por la programación </h3>
+<h3 align="center">🚀 Técnica en Informática y futura Ingeniera en Computación <br> Desarrolladora Full Stack apasionada por la programación </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LeticiaBecerril&label=Profile%20views&color=blueviolet&style=flat" alt="LeticiaBecerril" />
@@ -11,56 +11,55 @@
 
 ## 🎯 Sobre Mí
 
-Soy tecnica en Informatica apunto de terminar la carrera en Ing. en Computación, me estoy especializando en desarrollo de Software, ya que me gusta programar.
+Soy técnica en Informática y estoy por concluir la carrera de Ingeniería en Computación.  
+Me estoy especializando en Desarrollo de Software, ya que disfruto mucho programar.
 
 **✨ Lo que me define:**
-- 💻 **Desarrollador Full Stack** con enfoque en front-end y back-end (basico).
-- 🎨 **Creadora de Sistemas**
-- 🚀 **Me considero una persona autodidacta** 
+- 💻 **Desarrolladora Full Stack**, con enfoque en front-end y back-end (nivel básico).
+- 🎨 **Creadora de sistemas.**
+- 🚀 **Autodidacta** y apasionada por el aprendizaje constante.
 
 ## 📚 Certificaciones y Educación
 
-### 🎓 Tecnica en Informatica (Titulada)
+### 🎓 Técnica en Informática (Titulada)
 **Fecha:** Agosto 2014 - Julio 2017  
-**Institución:** CONALEP Lerma <br>
-Concluí la carrera tecnica, donde adquirí conocimientos en Programación, Bases de datos, redes de computadoras, manejo de paqueteria de Office. En la cual empezo mi pasion por la programacion en esta institucion.
+**Institución:** CONALEP Lerma  
+Concluí la carrera técnica, donde adquirí conocimientos en programación, bases de datos, redes de computadoras y manejo de paquetería Office.  
+En esta institución comenzó mi pasión por la programación.
 
-### 🎓 Ingeniería en Computación (Estudiando)
-**Fecha:** Agosto 2018 - Diciembre 2025
-**Institución:**   Universidad Autónoma del Estado de México<br>
-Concluí la Licenciatura de Ingeniería en Computación, donde adquirí conocimientos en Programación, Bases de datos, redes de computadoras, Analisis de Datos, Documentacion de Sistemas, Diagramas UML.
+### 🎓 Ingeniería en Computación (En curso)
+**Fecha:** Agosto 2018 - Diciembre 2025  
+**Institución:** Universidad Autónoma del Estado de México  
+Actualmente curso la Licenciatura en Ingeniería en Computación, donde he adquirido conocimientos en programación, bases de datos, redes de computadoras, análisis de datos, documentación de sistemas y diagramas UML.
 
 ### 🎓 Tecnolochicas PRO
 **Fecha:** Agosto 2023 - Septiembre 2023  
-**Institución:** Tecnolochicas  <br>
-Concluí satisfactoriamente el curso de Desarrollo de Paginas WEB. Adquirí conocimientos prácticos en HTML,CSS,JS y empleabilidad.
+**Institución:** Tecnolochicas  
+Concluí satisfactoriamente el curso de Desarrollo de Páginas Web, adquiriendo conocimientos prácticos en HTML, CSS, JavaScript y empleabilidad.
 
-### 📊 Certificación de Desarrollador en Desarrollador Front-end
+### 📊 Certificación en Desarrollo Front-End
 **Fecha:** Mayo 2023  
-**Plataforma:** capacitate para el empleo 
+**Plataforma:** Capacítate para el Empleo  
 
-### 📊 Certificación de Desarrollador Back-end
+### 📊 Certificación en Desarrollo Back-End
 **Fecha:** Mayo 2023  
-**Plataforma:** capacitate para el empleo 
+**Plataforma:** Capacítate para el Empleo  
 
-### 📊 Certificación de Administrador de bases de datos
+### 📊 Certificación en Administración de Bases de Datos
 **Fecha:** Mayo 2023  
-**Plataforma:** capacitate para el empleo 
+**Plataforma:** Capacítate para el Empleo  
 
-### 🎓 Lógica de programación con JavaScript
+### 🎓 Lógica de Programación con JavaScript
 **Fecha:** Febrero 2024 - Julio 2024  
 **Institución:** Alura Latam  
-Obtuve concocimiento como una induccion al mundo de JavaScript.
-
-
+Obtuve conocimientos introductorios al mundo de JavaScript.
 
 ## 🛠️ Proyectos Destacados
 
 ### 🎨 [Portafolio Personal](https://leticiabecerril.github.io/)
-Mi portafolio personal donde muestro mis proyectos y habilidades como desarrollador.
+Mi portafolio personal donde muestro mis proyectos y habilidades como desarrolladora.
 
 [![Portafolio](https://github.com/LeticiaBecerril/LeticiaBecerril/blob/main/vistaprevia.png)](https://leticiabecerril.github.io/)
-
 
 ## 💼 Habilidades Técnicas
 
@@ -75,7 +74,6 @@ Mi portafolio personal donde muestro mis proyectos y habilidades como desarrolla
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-
 ### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -87,7 +85,6 @@ Mi portafolio personal donde muestro mis proyectos y habilidades como desarrolla
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FFAA1F?style=for-the-badge&logo=postman&logoColor=white)
-
 
 ## 📊 Estadísticas de GitHub
 
@@ -114,12 +111,12 @@ Mi portafolio personal donde muestro mis proyectos y habilidades como desarrolla
 ## 📫 Conéctate Conmigo
 
 <p align="center">
-  <a href="www.linkedin.com/in/leticiabecerril" target="_blank">
+  <a href="https://www.linkedin.com/in/leticiabecerril" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:leticiabecerril57@gmailcom">
+  <a href="mailto:leticiabecerril57@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  
+</p>
 
 
