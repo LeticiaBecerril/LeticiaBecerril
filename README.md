@@ -22,17 +22,17 @@ Soy tecnica en Informatica apunto de terminar la carrera en Ing. en Computación
 
 ### 🎓 Tecnica en Informatica (Titulada)
 **Fecha:** Agosto 2014 - Julio 2017  
-**Institución:** CONALEP Lerma 
+**Institución:** CONALEP Lerma <br>
 Concluí la carrera tecnica, donde adquirí conocimientos en Programación, Bases de datos, redes de computadoras, manejo de paqueteria de Office. En la cual empezo mi pasion por la programacion en esta institucion.
 
 ### 🎓 Ingeniería en Computación (Estudiando)
 **Fecha:** Agosto 2018 - Diciembre 2025
-**Institución:**   Universidad Autónoma del Estado de México
+**Institución:**   Universidad Autónoma del Estado de México<br>
 Concluí la Licenciatura de Ingeniería en Computación, donde adquirí conocimientos en Programación, Bases de datos, redes de computadoras, Analisis de Datos, Documentacion de Sistemas, Diagramas UML.
 
 ### 🎓 Tecnolochicas PRO
 **Fecha:** Agosto 2023 - Septiembre 2023  
-**Institución:** Tecnolochicas  
+**Institución:** Tecnolochicas  <br>
 Concluí satisfactoriamente el curso de Desarrollo de Paginas WEB. Adquirí conocimientos prácticos en HTML,CSS,JS y empleabilidad.
 
 ### 📊 Certificación de Desarrollador en Desarrollador Front-end
