@@ -91,7 +91,6 @@ Mi portafolio personal donde muestro mis proyectos y habilidades como desarrolla
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeticiaBecerril&show_icons=true&locale=en&layout=compact&theme=radical" alt="LeticiaBecerril" />
 </p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeticiaBecerril&show_icons=true&locale=en&theme=radical" alt="LeticiaBecerril" />
 </p>
