@@ -11,7 +11,7 @@
 
 ## 🎯 Sobre Mí
 
-Soy técnica en Informática y estoy por concluir la carrera de Ingeniería en Computación.  
+Soy técnica en Informática y recien egresada de Ingeniería en Computación.  
 Me estoy especializando en Desarrollo de Software, ya que disfruto mucho programar.
 
 **✨ Lo que me define:**
@@ -70,7 +70,6 @@ Mi portafolio personal donde muestro mis proyectos y habilidades como desarrolla
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -78,31 +77,12 @@ Mi portafolio personal donde muestro mis proyectos y habilidades como desarrolla
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-27F561?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-C40000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🔧 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FFAA1F?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeticiaBecerril&show_icons=true&locale=en&layout=compact&theme=radical" alt="LeticiaBecerril" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeticiaBecerril&show_icons=true&locale=en&theme=radical" alt="LeticiaBecerril" />
-</p>
-
-
-## 🏆 Logros
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LeticiaBecerril&theme=radical&no-frame=true&no-bg=true" alt="LeticiaBecerril" />
-  </a>
-</p>
 
 ## 📫 Conéctate Conmigo
 
